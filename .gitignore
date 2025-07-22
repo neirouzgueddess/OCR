@@ -1,0 +1,8 @@
+__pycache__/
+outputs/
+*.exe
+*.dll
+*.lib
+*.png
+venv/
+.env
